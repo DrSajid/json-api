@@ -1,5 +1,7 @@
 # Mock json api
 
+Useful for Todo app creation
+
 This is a simple JSON api that returns mock data.
 
 Created using Next.js.
